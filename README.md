@@ -1,35 +1,18 @@
 ![Logo UNAHUR](./assets/UNAHUR.png)
 
-Bienvenidxs a
-# Programación con objetos I
 
-En esta materia aprenderán sobre la famosa POO _(OOP en inglés)_, un paradigma que propone como base **objetos** que tienen un **estado** y **comportamiento**.
-Para ello usaremos como herramienta el lenguaje Wollok.
+¡Hola!
 
-```
-object programacionConObjetos { 
-    method saludar() { 
-        return  "Bienvenidxs!" 
-    }
-}
-```
+Mi nombre es Fernando González, y soy estudiante de la Tecnicatura Universitaria en Programcion. Pienso que la POO es una rama importante en la programación y por eso estoy entusiasmado de cursar esta materia.
 
-## Datos de la cursada :book:
-* Modalidad Mixta
-* Horario comisión **turno noche**: Martes 18hs.
-* Horario comisión **turno mañana**: Miercoles 8hs.
-* Horario **ambas comisión**: Sabados 10hs.
-* Este cuatrimestre los profesores somos Gerardo González, Lucas Spigariol y Hernán Coniglio
-* Además nos acompañan como colaboradores Valentino Chiappani, Manuel Nuñez, Tobias Di Salvo, Enzo Alarcón, Cristian Gonzalez, Gabriel Ledezma, Maia Barrionuevo y Gabriel Álvarez.
+Nací en Haedo a los 2 años me mude a Rosario y vivi ahí hasta los 13, cuando decidimos volver para Buenos Aires pero esta vez en Castelar, lugar que vivo ya hace 15 años, desarrollé interés en la programación gracias a un compañero del colegio, que ademas es un amigo, él es Ingeniero informático y me comentó como era su carrera y que existía una de programación y decidí anotarme y la verdad no me arrepiento. Es por eso que decidí elegir esta carrera, ya que me apasiona lo relacionado a la programación y pienso que es el futuro que se viene.
 
-## Links importantes :monocle_face:
-- [x] [Página principal](https://obj1-unahur.github.io/) de la materia (no olviden entrar seguido!) 
-- [x] [Cronograma](https://docs.google.com/spreadsheets/d/1my_Oo31XGP7EE2kQ7otHWRg_LeoMR48rmhF7LiMkbDY/edit?usp=sharing) de clases.
-- [x] [Matricularse](https://discord.com/channels/656909199510601744/1088949265306501130) y ver el canal de Discord.
+Además, en mi tiempo libre fuera de la facultar me gusta hacer cursos relacionados a la programación, como por ejemplo desarrollo web, tanto front-end como back-end, full-stack, y desarrollo de videojuegos, estoy aprendiendo y viendo cual de las ramas me apasiona mas. Me gusta el deporte aunque no practico ultimamente, pero me gustan actividades como el futbol, gimnasio y padel. Aunque aún no trabajo como programador es mi deseo en un futuro proximo (un año a lo sumo dos) poder trabajar en este ámbito. 
 
-### Referencias Markdown 
-* [Wikipedia](https://es.wikipedia.org/wiki/Markdown)
+Siento que se puede aprender tanto de los docentes como de los alumnos, y me gusta estar aprendiendo constantemente, aunque me equivoque, lo tomo como experiencias y de ahí aprendo, según mi criterio no hay un obstaculo que me limite a conseguir lo que deseo, ya que si no logro un objetivo de forma instantanea o como desearía, se que éste no me va a detener ni desviar de mi meta, en el caso de la Universidad, va a ser recibirme y si me va de una forma no deseada en alguna materia, se que mas pronto que tarde conseguiré el objetivo y con excelentes resultados.
 
-* [Guía Ràpida](https://greg.schueler.us/doc/markdown.txt) de la sintaxis _(en inglés)_
+A nivel personal la materia previa (programación estructurada) me costó aprobarla ya que no venía con ninguna base previa, pero dada mi fuerza de voluntad por salir adelante ante cada situación complicada, logré aprobarla con lo que yo considero una muy buena calificación, esto no me va a hacer que me resulte todo más fácil, sino que me hace saber que estoy en el camino correcto.
 
-* [Emojis!](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) :sunglasses:
+Espero que este cuatrimestre sea una buena cursada para todos, y que tanto docentes como alumnos puedan sacar resultados positivos.
+
+Muchas gracias por su atención y gracias a los docentes por compartir sus conocimientos y sus experiencias que considero de gran ayuda y me complementan a la hora de estudiar y aprender
